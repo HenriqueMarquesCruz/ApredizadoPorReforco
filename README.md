@@ -35,27 +35,6 @@ O **Trabalho Prático 1 (TP1)** consiste na implementação de algoritmos de Apr
 ---
 
 
-## ▶️ Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-2. Instale as dependências:
-```bash
-pip install gym numpy matplotlib
-```
-
-3. Execute o TP1:
-```bash
-cd TP1/blackjack
-python main.py
-```
-
----
-
 ## 📌 Observações
 
 Este repositório tem fins exclusivamente acadêmicos, sendo parte das atividades da disciplina no âmbito da pós-graduação da UFMG.
